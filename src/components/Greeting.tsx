@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 type GreetingProps = {
-  name: string
-}
+  name: string;
+};
 
 const Greeting = ({ name }: GreetingProps) => {
-  return <div>Hello, {name}!</div>
-}
+  return <div>Hello, {name}!</div>;
+};
 
-export default Greeting
+export default Greeting;
