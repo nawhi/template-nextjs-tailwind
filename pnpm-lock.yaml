@@ -8,7 +8,7 @@ specifiers:
   '@types/react': 17.0.38
   autoprefixer: ^10.4.0
   jest: ^27.0.0
-  next: latest
+  next: '12'
   postcss: ^8.4.5
   prettier: ^2.5.1
   prettier-plugin-tailwindcss: ^0.1.1
